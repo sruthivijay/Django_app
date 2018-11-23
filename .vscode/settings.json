@@ -4,4 +4,5 @@
     "git.alwaysSignOff": true,
     "git.autofetch": true,
     "terminal.integrated.shell.windows": "C:\\Windows\\system32\\cmd.exe",
+    "python.pythonPath": "virtualenv\\Scripts\\python.exe",
 }
